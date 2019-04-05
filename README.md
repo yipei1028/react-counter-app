@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 Sorry, no test for you.
 
 ## Source
-It's the open source course from this amazing Mosh dude on his youtube channel:
+It's the open source course from this amazing Mosh dude on his youtube channel:<br>
 https://www.youtube.com/watch?v=Ke90Tje7VS0&list=PLTjRvDozrdlw5En5v2xrBr_EqieHf7hGs&index=3
 
 Go and visit him! He won't let you down.
